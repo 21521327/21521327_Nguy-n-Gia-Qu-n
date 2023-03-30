@@ -1,0 +1,13 @@
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\bin\Debug\UDP-client-sever1.exe.config
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\bin\Debug\UDP-client-sever1.exe
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\bin\Debug\UDP-client-sever1.pdb
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP-client-sever1.csproj.AssemblyReference.cache
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP-client-sever1.csproj.SuggestedBindingRedirects.cache
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP_client_sever1.Client.resources
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP_client_sever1.Form1.resources
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP_client_sever1.Properties.Resources.resources
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP_client_sever1.Sever.resources
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP-client-sever1.csproj.GenerateResource.cache
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP-client-sever1.csproj.CoreCompileInputs.cache
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP-client-sever1.exe
+D:\c#\C# SQL\UDP-client-sever1\UDP-client-sever1\obj\Debug\UDP-client-sever1.pdb
